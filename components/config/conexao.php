@@ -1,7 +1,7 @@
 <?php
 
 $host = "localhost";
-$dbname = "sa_database";
+$dbname = "Pethouse_db";
 $usuario = "root";
 $senha = "";
 
